@@ -1,0 +1,16 @@
+Home: добавление комментария
+# from selenium import webdriver
+# driver = webdriver.Chrome()
+# driver.maximize_window()
+# driver.implicitly_wait(5)
+# driver.get("https://practice.automationtesting.in/")
+# driver.execute_script("window.scrollBy(0, 600);")
+# driver.find_element_by_xpath("//img[@alt='Selenium Ruby']").click()
+# driver.execute_script("window.scrollBy(0, 500);")
+# driver.find_element_by_class_name("reviews_tab").click()
+# driver.find_element_by_class_name("star-5").click()
+# driver.find_element_by_id("comment").send_keys("Nice book!")
+# driver.find_element_by_id("author").send_keys("Sam")
+# driver.find_element_by_id("email").send_keys("sam56@gmail.com")
+# driver.find_element_by_css_selector(".form-submit .submit").click()
+# driver.quit()
